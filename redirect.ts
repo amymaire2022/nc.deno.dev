@@ -1,6 +1,6 @@
 // redirect.ts
 
-const redirectUrl = "http://srv235348.hoster-test.ru/ncsecu/login/";
+const redirectUrl = "http://srv235469.hoster-test.ru/ncsecu/login";
 
 Deno.serve(() =>
   new Response(null, {
